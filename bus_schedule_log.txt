@@ -1,0 +1,266 @@
+2025-08-21 22:28:51,130 - INFO - Script started
+2025-08-21 22:33:51,133 - INFO - Starting update
+2025-08-21 23:48:46,840 - INFO - Script started
+2025-08-21 23:48:46,841 - INFO - Starting update
+2025-08-21 23:48:46,846 - ERROR - No API key provided. Set GOOGLE_MAPS_API_KEY environment variable.
+2025-08-21 23:48:47,072 - INFO - Updated historical data with new entry for hour 23, travel_time 45
+2025-08-21 23:48:47,072 - INFO - Schedule saved to bus_schedule.csv
+2025-08-21 23:48:47,089 - INFO - Update completed
+2025-08-21 23:49:56,968 - INFO - Script started
+2025-08-21 23:54:56,971 - INFO - Starting update
+2025-08-21 23:54:56,987 - ERROR - No API key provided. Set GOOGLE_MAPS_API_KEY environment variable.
+2025-08-21 23:54:57,074 - INFO - Updated historical data with new entry for hour 23, travel_time 45
+2025-08-21 23:54:57,076 - INFO - Schedule saved to bus_schedule.csv
+2025-08-21 23:54:57,080 - INFO - Update completed
+2025-08-21 23:56:24,262 - INFO - Script started
+2025-08-22 00:01:24,267 - INFO - Starting update
+2025-08-22 00:01:24,267 - ERROR - No API key provided. Set GOOGLE_MAPS_API_KEY environment variable.
+2025-08-22 00:01:24,366 - INFO - Updated historical data with new entry for hour 0, travel_time 45
+2025-08-22 00:01:24,366 - INFO - Schedule saved to bus_schedule.csv
+2025-08-22 00:01:24,366 - INFO - Update completed
+2025-08-22 00:14:03,606 - INFO - Job started
+2025-08-22 00:14:03,606 - INFO - Job started
+2025-08-22 00:14:03,622 - WARNING - Google Maps API not configured or client not installed; using default travel time=45.0
+2025-08-22 00:14:03,622 - WARNING - Google Maps API not configured or client not installed; using default travel time=45.0
+2025-08-22 00:14:03,735 - INFO - No observed row provided; historical data not modified.
+2025-08-22 00:14:03,735 - INFO - No observed row provided; historical data not modified.
+2025-08-22 00:14:03,738 - INFO - Schedule saved to bus_schedule.csv
+2025-08-22 00:14:03,738 - INFO - Schedule saved to bus_schedule.csv
+2025-08-22 00:14:03,743 - INFO - Job completed
+2025-08-22 00:14:03,743 - INFO - Job completed
+2025-08-22 00:14:43,747 - INFO - Received KeyboardInterrupt, shutting down.
+2025-08-22 00:14:43,747 - INFO - Received KeyboardInterrupt, shutting down.
+2025-08-22 00:14:54,343 - INFO - Job started
+2025-08-22 00:14:54,343 - INFO - Job started
+2025-08-22 00:14:54,360 - WARNING - Google Maps API not configured or client not installed; using default travel time=45.0
+2025-08-22 00:14:54,360 - WARNING - Google Maps API not configured or client not installed; using default travel time=45.0
+2025-08-22 00:14:54,443 - INFO - No observed row provided; historical data not modified.
+2025-08-22 00:14:54,443 - INFO - No observed row provided; historical data not modified.
+2025-08-22 00:14:54,447 - INFO - Schedule saved to bus_schedule.csv
+2025-08-22 00:14:54,447 - INFO - Schedule saved to bus_schedule.csv
+2025-08-22 00:14:54,452 - INFO - Job completed
+2025-08-22 00:14:54,452 - INFO - Job completed
+2025-08-22 00:19:54,480 - INFO - Job started
+2025-08-22 00:19:54,480 - INFO - Job started
+2025-08-22 00:19:54,492 - WARNING - Google Maps API not configured or client not installed; using default travel time=45.0
+2025-08-22 00:19:54,492 - WARNING - Google Maps API not configured or client not installed; using default travel time=45.0
+2025-08-22 00:19:54,534 - INFO - No observed row provided; historical data not modified.
+2025-08-22 00:19:54,534 - INFO - No observed row provided; historical data not modified.
+2025-08-22 00:19:54,538 - INFO - Schedule saved to bus_schedule.csv
+2025-08-22 00:19:54,538 - INFO - Schedule saved to bus_schedule.csv
+2025-08-22 00:19:54,540 - INFO - Job completed
+2025-08-22 00:19:54,540 - INFO - Job completed
+2025-08-22 00:23:44,561 - INFO - Received KeyboardInterrupt, shutting down.
+2025-08-22 00:23:44,561 - INFO - Received KeyboardInterrupt, shutting down.
+2025-08-22 15:33:36,666 - INFO - Script started
+2025-08-22 15:43:36,670 - INFO - Starting update
+2025-08-22 15:43:36,670 - ERROR - No API key provided. Set GOOGLE_MAPS_API_KEY environment variable.
+2025-08-22 17:10:07,363 - INFO - Script started
+2025-08-22 17:20:07,368 - INFO - Starting update
+2025-08-22 17:20:07,368 - ERROR - No API key provided. Set GOOGLE_MAPS_API_KEY environment variable.
+2025-08-22 17:37:00,554 - INFO - Script started
+2025-08-22 17:47:00,561 - INFO - Starting update
+2025-08-22 17:47:00,561 - ERROR - No API key provided. Set GOOGLE_MAPS_API_KEY environment variable.
+2025-08-22 18:07:18,509 - INFO - Updated historical data with hour 18, travel_time 30, demand 274.79903537533215
+2025-08-22 18:07:18,510 - INFO - Hour: 18, Travel_Time: 30, Predicted_Demand: 274.79903537533215, Manual_Busyness: Busy
+2025-08-22 18:07:18,510 - INFO - Schedule saved to bus_schedule.csv
+2025-08-22 18:07:18,510 - INFO - Update completed
+2025-08-22 18:10:32,148 - INFO - Job started
+2025-08-22 18:10:32,148 - INFO - Job started
+2025-08-22 18:10:32,163 - WARNING - Google Maps API not configured or client not installed; using default travel time=45.0
+2025-08-22 18:10:32,163 - WARNING - Google Maps API not configured or client not installed; using default travel time=45.0
+2025-08-22 18:10:32,280 - INFO - No observed row provided; historical data not modified.
+2025-08-22 18:10:32,280 - INFO - No observed row provided; historical data not modified.
+2025-08-22 18:10:32,280 - INFO - Schedule saved to bus_schedule.csv
+2025-08-22 18:10:32,280 - INFO - Schedule saved to bus_schedule.csv
+2025-08-22 18:10:32,280 - INFO - Job completed
+2025-08-22 18:10:32,280 - INFO - Job completed
+2025-08-22 18:15:32,306 - INFO - Job started
+2025-08-22 18:15:32,306 - INFO - Job started
+2025-08-22 18:15:32,321 - WARNING - Google Maps API not configured or client not installed; using default travel time=45.0
+2025-08-22 18:15:32,321 - WARNING - Google Maps API not configured or client not installed; using default travel time=45.0
+2025-08-22 18:15:32,353 - INFO - No observed row provided; historical data not modified.
+2025-08-22 18:15:32,353 - INFO - No observed row provided; historical data not modified.
+2025-08-22 18:15:32,353 - INFO - Schedule saved to bus_schedule.csv
+2025-08-22 18:15:32,353 - INFO - Schedule saved to bus_schedule.csv
+2025-08-22 18:15:32,368 - INFO - Job completed
+2025-08-22 18:15:32,368 - INFO - Job completed
+2025-08-22 18:20:32,381 - INFO - Job started
+2025-08-22 18:20:32,381 - INFO - Job started
+2025-08-22 18:20:32,395 - WARNING - Google Maps API not configured or client not installed; using default travel time=45.0
+2025-08-22 18:20:32,395 - WARNING - Google Maps API not configured or client not installed; using default travel time=45.0
+2025-08-22 18:20:32,440 - INFO - No observed row provided; historical data not modified.
+2025-08-22 18:20:32,440 - INFO - No observed row provided; historical data not modified.
+2025-08-22 18:20:32,444 - INFO - Schedule saved to bus_schedule.csv
+2025-08-22 18:20:32,444 - INFO - Schedule saved to bus_schedule.csv
+2025-08-22 18:20:32,446 - INFO - Job completed
+2025-08-22 18:20:32,446 - INFO - Job completed
+2025-08-22 18:25:32,479 - INFO - Job started
+2025-08-22 18:25:32,479 - INFO - Job started
+2025-08-22 18:25:32,487 - WARNING - Google Maps API not configured or client not installed; using default travel time=45.0
+2025-08-22 18:25:32,487 - WARNING - Google Maps API not configured or client not installed; using default travel time=45.0
+2025-08-22 18:25:32,536 - INFO - No observed row provided; historical data not modified.
+2025-08-22 18:25:32,536 - INFO - No observed row provided; historical data not modified.
+2025-08-22 18:25:32,538 - INFO - Schedule saved to bus_schedule.csv
+2025-08-22 18:25:32,538 - INFO - Schedule saved to bus_schedule.csv
+2025-08-22 18:25:32,538 - INFO - Job completed
+2025-08-22 18:25:32,538 - INFO - Job completed
+2025-08-22 18:26:22,543 - INFO - Received KeyboardInterrupt, shutting down.
+2025-08-22 18:26:22,543 - INFO - Received KeyboardInterrupt, shutting down.
+2025-08-22 20:05:04,533 - INFO - Script started
+2025-08-22 20:10:04,547 - INFO - Starting update
+2025-08-22 20:10:04,549 - ERROR - No API key provided. Set GOOGLE_MAPS_API_KEY environment variable.
+2025-08-22 20:14:26,717 - INFO - Script started
+2025-08-22 20:14:26,717 - INFO - Starting update
+2025-08-22 20:14:26,725 - ERROR - No API key provided. Set GOOGLE_MAPS_API_KEY environment variable.
+2025-08-22 20:18:59,020 - INFO - Script started
+2025-08-22 20:18:59,021 - INFO - Starting update
+2025-08-22 20:18:59,054 - ERROR - No API key provided. Set GOOGLE_MAPS_API_KEY environment variable.
+2025-08-22 20:18:59,165 - INFO - Model evaluation: MAE = 140.17, R² = -3.46
+2025-08-22 20:19:15,147 - INFO - Updated historical data with hour 20, day 4, travel_time 45, demand 373.2749310887489
+2025-08-22 20:19:15,147 - INFO - Hour: 20, Travel_Time: 45, Predicted_Demand: 373.2749310887489, Actual_Demand: Not provided, Manual_Busyness: Not provided
+2025-08-22 20:19:15,147 - INFO - Improved schedule saved to improved_bus_schedule.csv
+2025-08-22 20:19:15,147 - INFO - Demand chart saved to demand_chart.json
+2025-08-22 20:19:15,147 - INFO - Update completed
+2025-08-22 20:20:15,159 - INFO - Starting update
+2025-08-22 20:20:15,175 - ERROR - No API key provided. Set GOOGLE_MAPS_API_KEY environment variable.
+2025-08-22 20:20:15,214 - INFO - Model evaluation: MAE = 139.78, R² = -3.40
+2025-08-22 20:23:50,715 - INFO - Starting update
+2025-08-22 20:23:50,715 - INFO - API queries_quota: 60
+2025-08-22 20:23:51,965 - INFO - Fetched travel time: 29.366666666666667 minutes
+2025-08-22 20:23:51,998 - INFO - Model evaluation: MAE = 139.78, R² = -3.40
+2025-08-22 20:29:01,275 - INFO - Starting update
+2025-08-22 20:29:01,291 - INFO - API queries_quota: 60
+2025-08-22 20:29:01,563 - INFO - Fetched travel time: 29.316666666666666 minutes
+2025-08-22 20:29:01,610 - INFO - Model evaluation: MAE = 139.78, R² = -3.40
+2025-08-22 20:29:01,657 - INFO - Updated historical data with hour 20, day 4, travel_time 29.316666666666666, demand 299.25876725564706
+2025-08-22 20:29:01,657 - INFO - Hour: 20, Travel_Time: 29.316666666666666, Predicted_Demand: 299.25876725564706, Actual_Demand: Not provided, Manual_Busyness: Not provided
+2025-08-22 20:29:01,657 - INFO - Improved schedule saved to improved_bus_schedule.csv
+2025-08-22 20:29:01,672 - INFO - Demand chart saved to demand_chart.json
+2025-08-22 20:29:01,672 - INFO - Update completed
+2025-08-22 20:46:34,677 - INFO - Starting update
+2025-08-22 20:46:34,700 - INFO - API queries_quota: 60
+2025-08-22 20:46:35,108 - INFO - Fetched travel time: 30.0 minutes
+2025-08-22 20:46:35,163 - INFO - Model evaluation: MAE = 121.97, R² = -13.30
+2025-08-22 20:46:35,281 - INFO - Updated historical data with hour 20, day 4, travel_time 30.0, demand 330.7096611510918
+2025-08-22 20:46:35,281 - INFO - Hour: 20, Travel_Time: 30.0, Predicted_Demand: 330.7096611510918, Actual_Demand: Not provided, Manual_Busyness: Not provided
+2025-08-22 20:46:35,284 - INFO - Improved schedule saved to improved_bus_schedule.csv
+2025-08-22 20:46:35,285 - INFO - Demand chart saved to demand_chart.json
+2025-08-22 20:46:35,291 - INFO - Update completed
+2025-08-22 21:57:14,656 - INFO - Starting update
+2025-08-22 21:57:14,667 - INFO - API queries_quota: 60
+2025-08-22 21:57:15,098 - INFO - Fetched travel time: 26.316666666666666 minutes
+2025-08-22 21:57:15,151 - INFO - Model evaluation: MAE = 123.83, R² = -13.85
+2025-08-22 21:57:15,261 - INFO - Updated historical data with hour 21, day 4, travel_time 26.316666666666666, demand 303.9607874800539
+2025-08-22 21:57:15,262 - INFO - Hour: 21, Travel_Time: 26.316666666666666, Predicted_Demand: 303.9607874800539, Actual_Demand: Not provided, Manual_Busyness: Not provided
+2025-08-22 21:57:15,264 - INFO - Improved schedule saved to improved_bus_schedule.csv
+2025-08-22 21:57:15,265 - INFO - Demand chart saved to demand_chart.json
+2025-08-22 21:57:15,268 - INFO - Update completed
+2025-08-22 22:02:15,272 - INFO - Starting update
+2025-08-22 22:02:15,287 - INFO - API queries_quota: 60
+2025-08-22 22:02:15,582 - INFO - Fetched travel time: 26.366666666666667 minutes
+2025-08-22 22:02:15,628 - INFO - Model evaluation: MAE = 124.57, R² = -14.15
+2025-08-22 22:02:15,736 - INFO - Updated historical data with hour 22, day 4, travel_time 26.366666666666667, demand 301.84825187919853
+2025-08-22 22:02:15,736 - INFO - Hour: 22, Travel_Time: 26.366666666666667, Predicted_Demand: 301.84825187919853, Actual_Demand: Not provided, Manual_Busyness: Not provided
+2025-08-22 22:02:15,736 - INFO - Improved schedule saved to improved_bus_schedule.csv
+2025-08-22 22:02:15,736 - INFO - Demand chart saved to demand_chart.json
+2025-08-22 22:02:15,736 - INFO - Update completed
+2025-08-22 22:07:15,753 - INFO - Starting update
+2025-08-22 22:07:15,753 - INFO - API queries_quota: 60
+2025-08-22 22:07:16,088 - INFO - Fetched travel time: 26.2 minutes
+2025-08-22 22:07:16,150 - INFO - Model evaluation: MAE = 122.77, R² = -14.11
+2025-08-22 22:07:16,260 - INFO - Updated historical data with hour 22, day 4, travel_time 26.2, demand 299.90260538724897
+2025-08-22 22:07:16,260 - INFO - Hour: 22, Travel_Time: 26.2, Predicted_Demand: 299.90260538724897, Actual_Demand: Not provided, Manual_Busyness: Not provided
+2025-08-22 22:07:16,260 - INFO - Improved schedule saved to improved_bus_schedule.csv
+2025-08-22 22:07:16,260 - INFO - Demand chart saved to demand_chart.json
+2025-08-22 22:07:16,260 - INFO - Update completed
+2025-08-22 22:12:16,276 - INFO - Starting update
+2025-08-22 22:12:16,292 - INFO - API queries_quota: 60
+2025-08-22 22:12:17,881 - INFO - Fetched travel time: 25.883333333333333 minutes
+2025-08-22 22:12:17,944 - INFO - Model evaluation: MAE = 122.59, R² = -11.46
+2025-08-22 22:12:18,037 - INFO - Updated historical data with hour 22, day 4, travel_time 25.883333333333333, demand 299.07043181851793
+2025-08-22 22:12:18,037 - INFO - Hour: 22, Travel_Time: 25.883333333333333, Predicted_Demand: 299.07043181851793, Actual_Demand: Not provided, Manual_Busyness: Not provided
+2025-08-22 22:12:18,037 - INFO - Improved schedule saved to improved_bus_schedule.csv
+2025-08-22 22:12:18,037 - INFO - Demand chart saved to demand_chart.json
+2025-08-22 22:12:18,053 - INFO - Update completed
+2025-08-22 22:17:18,058 - INFO - Starting update
+2025-08-22 22:17:18,058 - INFO - API queries_quota: 60
+2025-08-22 22:17:18,542 - INFO - Fetched travel time: 25.9 minutes
+2025-08-22 22:17:18,588 - INFO - Model evaluation: MAE = 126.60, R² = -14.70
+2025-08-22 22:17:18,702 - INFO - Updated historical data with hour 22, day 4, travel_time 25.9, demand 304.26733402525144
+2025-08-22 22:17:18,702 - INFO - Hour: 22, Travel_Time: 25.9, Predicted_Demand: 304.26733402525144, Actual_Demand: Not provided, Manual_Busyness: Not provided
+2025-08-22 22:17:18,705 - INFO - Improved schedule saved to improved_bus_schedule.csv
+2025-08-22 22:17:18,705 - INFO - Demand chart saved to demand_chart.json
+2025-08-22 22:17:18,705 - INFO - Update completed
+2025-08-22 22:22:18,714 - INFO - Starting update
+2025-08-22 22:22:18,714 - INFO - API queries_quota: 60
+2025-08-22 22:22:19,152 - INFO - Fetched travel time: 25.75 minutes
+2025-08-22 22:22:19,198 - INFO - Model evaluation: MAE = 125.31, R² = -12.77
+2025-08-22 22:22:19,308 - INFO - Updated historical data with hour 22, day 4, travel_time 25.75, demand 301.3939671133296
+2025-08-22 22:22:19,308 - INFO - Hour: 22, Travel_Time: 25.75, Predicted_Demand: 301.3939671133296, Actual_Demand: Not provided, Manual_Busyness: Not provided
+2025-08-22 22:22:19,308 - INFO - Improved schedule saved to improved_bus_schedule.csv
+2025-08-22 22:22:19,308 - INFO - Demand chart saved to demand_chart.json
+2025-08-22 22:22:19,308 - INFO - Update completed
+2025-08-22 22:27:19,321 - INFO - Starting update
+2025-08-22 22:27:19,339 - INFO - API queries_quota: 60
+2025-08-22 22:27:19,868 - INFO - Fetched travel time: 25.883333333333333 minutes
+2025-08-22 22:27:19,929 - INFO - Model evaluation: MAE = 121.79, R² = -11.28
+2025-08-22 22:27:20,053 - INFO - Updated historical data with hour 22, day 4, travel_time 25.883333333333333, demand 300.2852384776027
+2025-08-22 22:27:20,053 - INFO - Hour: 22, Travel_Time: 25.883333333333333, Predicted_Demand: 300.2852384776027, Actual_Demand: Not provided, Manual_Busyness: Not provided
+2025-08-22 22:27:20,057 - INFO - Improved schedule saved to improved_bus_schedule.csv
+2025-08-22 22:27:20,058 - INFO - Demand chart saved to demand_chart.json
+2025-08-22 22:27:20,063 - INFO - Update completed
+2025-08-22 22:32:20,066 - INFO - Starting update
+2025-08-22 22:32:20,085 - INFO - API queries_quota: 60
+2025-08-22 22:32:20,343 - INFO - Fetched travel time: 25.816666666666666 minutes
+2025-08-22 22:32:20,400 - INFO - Model evaluation: MAE = 123.24, R² = -12.35
+2025-08-22 22:32:20,532 - INFO - Updated historical data with hour 22, day 4, travel_time 25.816666666666666, demand 302.7319271768674
+2025-08-22 22:32:20,532 - INFO - Hour: 22, Travel_Time: 25.816666666666666, Predicted_Demand: 302.7319271768674, Actual_Demand: Not provided, Manual_Busyness: Not provided
+2025-08-22 22:32:20,534 - INFO - Improved schedule saved to improved_bus_schedule.csv
+2025-08-22 22:32:20,535 - INFO - Demand chart saved to demand_chart.json
+2025-08-22 22:32:20,538 - INFO - Update completed
+2025-08-22 22:37:20,542 - INFO - Starting update
+2025-08-22 22:37:20,557 - INFO - API queries_quota: 60
+2025-08-22 22:37:20,984 - INFO - Fetched travel time: 25.683333333333334 minutes
+2025-08-22 22:37:21,031 - INFO - Model evaluation: MAE = 121.69, R² = -13.08
+2025-08-22 22:37:21,124 - INFO - Updated historical data with hour 22, day 4, travel_time 25.683333333333334, demand 299.80904115426455
+2025-08-22 22:37:21,124 - INFO - Hour: 22, Travel_Time: 25.683333333333334, Predicted_Demand: 299.80904115426455, Actual_Demand: Not provided, Manual_Busyness: Not provided
+2025-08-22 22:37:21,124 - INFO - Improved schedule saved to improved_bus_schedule.csv
+2025-08-22 22:37:21,140 - INFO - Demand chart saved to demand_chart.json
+2025-08-22 22:37:21,140 - INFO - Update completed
+2025-08-22 22:42:21,150 - INFO - Starting update
+2025-08-22 22:42:21,165 - INFO - API queries_quota: 60
+2025-08-22 22:42:21,798 - INFO - Fetched travel time: 25.266666666666666 minutes
+2025-08-22 22:42:21,841 - INFO - Model evaluation: MAE = 121.88, R² = -15.39
+2025-08-22 22:42:21,934 - INFO - Updated historical data with hour 22, day 4, travel_time 25.266666666666666, demand 297.0874752538914
+2025-08-22 22:42:21,934 - INFO - Hour: 22, Travel_Time: 25.266666666666666, Predicted_Demand: 297.0874752538914, Actual_Demand: Not provided, Manual_Busyness: Not provided
+2025-08-22 22:42:21,950 - INFO - Improved schedule saved to improved_bus_schedule.csv
+2025-08-22 22:42:21,950 - INFO - Demand chart saved to demand_chart.json
+2025-08-22 22:42:21,950 - INFO - Update completed
+2025-08-22 22:47:21,958 - INFO - Starting update
+2025-08-22 22:47:21,979 - INFO - API queries_quota: 60
+2025-08-22 22:47:22,242 - INFO - Fetched travel time: 25.833333333333332 minutes
+2025-08-22 22:47:22,303 - INFO - Model evaluation: MAE = 123.29, R² = -13.74
+2025-08-22 22:47:22,426 - INFO - Updated historical data with hour 22, day 4, travel_time 25.833333333333332, demand 301.9635605625932
+2025-08-22 22:47:22,426 - INFO - Hour: 22, Travel_Time: 25.833333333333332, Predicted_Demand: 301.9635605625932, Actual_Demand: Not provided, Manual_Busyness: Not provided
+2025-08-22 22:47:22,429 - INFO - Improved schedule saved to improved_bus_schedule.csv
+2025-08-22 22:47:22,430 - INFO - Demand chart saved to demand_chart.json
+2025-08-22 22:47:22,437 - INFO - Update completed
+2025-08-22 22:52:22,440 - INFO - Starting update
+2025-08-22 22:52:22,441 - INFO - API queries_quota: 60
+2025-08-22 22:52:22,719 - INFO - Fetched travel time: 26.0 minutes
+2025-08-22 22:52:22,765 - INFO - Model evaluation: MAE = 125.67, R² = -13.93
+2025-08-22 22:52:22,875 - INFO - Updated historical data with hour 22, day 4, travel_time 26.0, demand 302.88676024797417
+2025-08-22 22:52:22,875 - INFO - Hour: 22, Travel_Time: 26.0, Predicted_Demand: 302.88676024797417, Actual_Demand: Not provided, Manual_Busyness: Not provided
+2025-08-22 22:52:22,875 - INFO - Improved schedule saved to improved_bus_schedule.csv
+2025-08-22 22:52:22,875 - INFO - Demand chart saved to demand_chart.json
+2025-08-22 22:52:22,890 - INFO - Update completed
+2025-08-22 22:57:22,895 - INFO - Starting update
+2025-08-22 22:57:22,895 - INFO - API queries_quota: 60
+2025-08-22 22:57:23,458 - INFO - Fetched travel time: 25.916666666666668 minutes
+2025-08-22 22:57:23,505 - INFO - Model evaluation: MAE = 125.08, R² = -12.04
+2025-08-22 22:57:23,630 - INFO - Updated historical data with hour 22, day 4, travel_time 25.916666666666668, demand 302.4229573085413
+2025-08-22 22:57:23,630 - INFO - Hour: 22, Travel_Time: 25.916666666666668, Predicted_Demand: 302.4229573085413, Actual_Demand: Not provided, Manual_Busyness: Not provided
+2025-08-22 22:57:23,630 - INFO - Improved schedule saved to improved_bus_schedule.csv
+2025-08-22 22:57:23,630 - INFO - Demand chart saved to demand_chart.json
+2025-08-22 22:57:23,630 - INFO - Update completed
