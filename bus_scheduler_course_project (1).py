@@ -13,7 +13,7 @@ from sklearn.metrics import mean_absolute_error, r2_score
 import googlemaps.exceptions
 
 # Set API key directly for Jupyter Notebook
-os.environ['GOOGLE_MAPS_API_KEY'] = 'AIzaSyC9igNw56QlMLyejzlLao4lFexiHgAONP8'
+os.environ['GOOGLE_MAPS_API_KEY'] = 'Key'
 API_KEY = os.getenv('GOOGLE_MAPS_API_KEY')
 print("API Key:", API_KEY)
 
